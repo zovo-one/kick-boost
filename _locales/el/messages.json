@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — Βοηθός αναπαραγωγής & σελίδας",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "Βελτιώστε τις σελίδες Kick.com: ταχύτητα & αναζήτηση, αυτόματο θέατρο, τακτοποίηση λίστας και σύνδεσμοι χρόνου.",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "Εναλλαγή Kick Boost",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "Ταχύτητα αναπαραγωγής",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "Ταχύτητα αναπαραγωγής",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Το Kick Boost είναι σε παύση",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "Εφαρμόζεται σε κάθε σελίδα παρακολούθησης Kick",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "Γυρίστε τον διακόπτη για να ενεργοποιήσετε ξανά τη μπάρα boost",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "Αυτόματη λειτουργία θεάτρου",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "Διευρύνετε το πρόγραμμα αναπαραγωγής σε κάθε σελίδα",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "Τακτοποίηση λίστας παρακολούθησης",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "Απόκρυψη ανενεργών καναλιών στην πλαϊνή μπάρα",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "Αναβάθμιση σε Pro — ταχύτητα ανά κανάλι & απεριόριστοι σύνδεσμοι",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "Όλες οι ρυθμίσεις",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "Ταχύτητα αναπαραγωγής",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "Προεπιλεγμένη ταχύτητα σε κάθε ροή",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "Μνήμη ταχύτητας ανά κανάλι",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "Εκκαθάριση",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "Μετακίνηση & αναζήτηση",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "Κουμπιά μετάβασης πίσω & εμπρός",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "Βήμα μετάβασης",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "Συρόμενη μπάρα αναζήτησης ακριβείας",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "Λειτουργία θεάτρου",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "Τακτοποίηση πλαϊνής μπάρας",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "Τακτοποίηση λίστας παρακολούθησης",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "Απόκρυψη ανενεργών καναλιών",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "Συμπαγής απόσταση",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "Σύνδεσμοι χρονοσήμανσης",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "Αντιγράψιμοι σύνδεσμοι χρονοσήμανσης",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "Γενικά",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "Εμφάνιση επιπέδου στο εικονίδιο της γραμμής εργαλείων",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "Άδεια",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "Αναβάθμιση σε Pro",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "Πληρώστε $$99 μία φορά αντί για $$4.99 κάθε μήνα — το Kick Boost Pro είναι δικό σας για πάντα.",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — עוזר נגן ודף",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "שפרו את דפי הצפייה של Kick.com: מהירות וגלילת נגן, מצב תיאטרון אוטומטי, ניקוי רשימת העוקבים וקישורי חותמת זמן להעתקה.",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "הפעלה/כיבוי של Kick Boost",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "מהירות השמעה",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "מהירות השמעה",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Kick Boost מושהה",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "מוחל בכל דף צפייה של Kick",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "הפעילו את המתג כדי לאפשר שוב את סרגל ההאצה",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "מצב תיאטרון אוטומטי",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "הרחיבו את הנגן בכל דף צפייה",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "ניקוי רשימת העוקבים",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "הסתרת ערוצים לא מקוונים בסרגל הצד",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "שדרגו ל-Pro — מהירות לכל ערוץ וקישורים ללא הגבלה",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "כל ההגדרות",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "מהירות השמעה",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "מהירות ברירת מחדל בכל שידור",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "זיכרון מהירות לכל ערוץ",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "נקה",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "גלילה וחיפוש",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "כפתורי הרצה אחורה וקדימה",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "צעד הקפיצה",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "סרגל חיפוש מדויק הניתן לגרירה",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "מצב תיאטרון",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "ניקוי סרגל הצד",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "ניקוי רשימת העוקבים",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "הסתרת ערוצים לא מקוונים",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "מרווח קומפקטי",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "קישורי חותמת זמן",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "קישורי חותמת זמן להעתקה",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "כללי",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "הצגת הרמה על סמל סרגל הכלים",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "רישיון",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "שדרגו ל-Pro",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "שלמו $$99 פעם אחת במקום $$4.99 כל חודש — Kick Boost Pro שלכם לתמיד.",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

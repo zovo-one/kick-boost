@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — مساعد المشغّل والصفحة",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "حسّن صفحات المشاهدة على Kick.com: سرعة المشغّل والتنقل، وضع المسرح التلقائي، ترتيب قائمة المتابعة، وروابط الطوابع الزمنية القابلة للنسخ.",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "تبديل Kick Boost",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "سرعة التشغيل",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "سرعة التشغيل",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "تم إيقاف Kick Boost مؤقتًا",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "يُطبَّق على كل صفحة مشاهدة في Kick",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "بدّل المفتاح لإعادة تفعيل شريط التعزيز",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "وضع المسرح التلقائي",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "توسيع المشغّل في كل صفحة مشاهدة",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "ترتيب قائمة المتابعة",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "إخفاء القنوات غير المتصلة في الشريط الجانبي",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "الترقية إلى Pro — سرعة لكل قناة وروابط غير محدودة",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "جميع الإعدادات",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "سرعة التشغيل",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "السرعة الافتراضية في كل بث",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "تذكّر السرعة لكل قناة",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "مسح",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "التنقل والبحث",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "أزرار الإرجاع والتقديم السريع",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "خطوة القفز",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "شريط بحث دقيق قابل للسحب",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "وضع المسرح",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "ترتيب الشريط الجانبي",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "ترتيب قائمة المتابعة",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "إخفاء القنوات غير المتصلة",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "تباعد مضغوط",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "روابط الطوابع الزمنية",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "روابط طوابع زمنية قابلة للنسخ",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "عام",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "إظهار المستوى على أيقونة شريط الأدوات",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "الترخيص",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "الترقية إلى Pro",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "ادفع $$99 مرة واحدة بدلاً من $$4.99 كل شهر — Kick Boost Pro ملكك للأبد.",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

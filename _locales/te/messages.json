@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — ప్లేయర్ మరియు పేజీ సహాయకుడు",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "Kick.com వీక్షణ పేజీలను మెరుగుపరచండి: ప్లేయర్ వేగం మరియు స్క్రబ్, ఆటో థియేటర్, అనుసరణ జాబితా క్రమబద్ధీకరణ, కాపీ చేయగల టైమ్‌స్టాంప్ లింక్‌లు.",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "Kick Boost టోగుల్ చేయండి",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "ప్లేబ్యాక్ వేగం",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "ప్లేబ్యాక్ వేగం",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Kick Boost నిలిపివేయబడింది",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "ప్రతి Kick వీక్షణ పేజీలో వర్తింపజేయబడింది",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "బూస్ట్ బార్‌ను తిరిగి ప్రారంభించడానికి స్విచ్‌ను మార్చండి",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "ఆటో థియేటర్ మోడ్",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "ప్రతి వీక్షణ పేజీలో ప్లేయర్‌ను వెడల్పు చేయండి",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "అనుసరణ జాబితాను క్రమబద్ధీకరించండి",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "సైడ్‌బార్‌లో ఆఫ్‌లైన్ ఛానెల్‌లను దాచండి",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "Pro కి అప్‌గ్రేడ్ చేయండి — ఛానెల్ వారీ వేగం మరియు అపరిమిత లింక్‌లు",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "అన్ని సెట్టింగ్‌లు",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "ప్లేబ్యాక్ వేగం",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "ప్రతి స్ట్రీమ్‌లో డిఫాల్ట్ వేగం",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "ఛానెల్ వారీ వేగ మెమరీ",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "క్లియర్ చేయండి",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "స్క్రబ్బింగ్ మరియు సీక్",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "రివైండ్ మరియు ఫాస్ట్-ఫార్వర్డ్ బటన్‌లు",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "జంప్ స్టెప్",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "లాగగల ఖచ్చిత సీక్ బార్",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "థియేటర్ మోడ్",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "సైడ్‌బార్ క్రమబద్ధీకరణ",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "అనుసరణ జాబితాను క్రమబద్ధీకరించండి",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "ఆఫ్‌లైన్ ఛానెల్‌లను దాచండి",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "కాంపాక్ట్ స్పేసింగ్",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "టైమ్‌స్టాంప్ లింక్‌లు",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "కాపీ చేయగల టైమ్‌స్టాంప్ లింక్‌లు",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "సాధారణ",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "టూల్‌బార్ చిహ్నంపై శ్రేణిని చూపించండి",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "లైసెన్స్",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "Pro కి అప్‌గ్రేడ్ చేయండి",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "ప్రతి నెల $$4.99 బదులుగా ఒకసారి $$99 చెల్లించండి — Kick Boost Pro శాశ్వతంగా మీది.",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

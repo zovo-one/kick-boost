@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — pomoćnik za player i stranicu",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "Poboljšajte stranice za gledanje na Kick.com: brzina i premotavanje playera, automatski kino način, sređivanje popisa praćenja i kopirljive vremenske poveznice.",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "Uključi/isključi Kick Boost",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "Brzina reprodukcije",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "Brzina reprodukcije",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Kick Boost pauziran",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "Primijenjeno na svakoj Kick stranici za gledanje",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "Prebacite prekidač za ponovno omogućavanje trake za pojačanje",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "Automatski kino način",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "Proširite player na svakoj stranici za gledanje",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "Sredi popis praćenja",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "Sakrij izvanmrežne kanale u bočnoj traci",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "Nadogradi na Pro — brzina po kanalu i neograničene poveznice",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "Sve postavke",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "Brzina reprodukcije",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "Zadana brzina na svakom streamu",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "Pamćenje brzine po kanalu",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "Očisti",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "Premotavanje i traženje",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "Gumbi za premotavanje unatrag i naprijed",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "Korak skoka",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "Povlačiva precizna traka za traženje",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "Kino način",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "Sređivanje bočne trake",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "Sredi popis praćenja",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "Sakrij izvanmrežne kanale",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "Kompaktni razmak",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "Vremenske poveznice",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "Kopirljive vremenske poveznice",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "Općenito",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "Prikaži razinu na ikoni alatne trake",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "Licenca",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "Nadogradi na Pro",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "Platite $$99 jednom umjesto $$4.99 svaki mjesec — Kick Boost Pro je zauvijek vaš.",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

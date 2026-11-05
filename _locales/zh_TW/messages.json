@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — 播放器與頁面助手",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "強化 Kick.com 觀看頁面：播放器倍速與拖曳、自動劇院模式、精簡追蹤清單以及可複製的時間戳記連結。",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "開關 Kick Boost",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "播放速度",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "播放速度",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Kick Boost 已暫停",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "已套用於每個 Kick 觀看頁面",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "開啟開關以重新啟用倍速列",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "自動劇院模式",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "在每個觀看頁面上加寬播放器",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "精簡追蹤清單",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "在側邊欄中隱藏離線頻道",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "升級至 Pro — 依頻道倍速與無限連結",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "所有設定",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "播放速度",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "每個直播的預設倍速",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "依頻道記憶倍速",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "清除",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "拖曳與定位",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "快退與快進按鈕",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "跳轉步幅",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "可拖曳的精準定位列",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "劇院模式",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "側邊欄精簡",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "精簡追蹤清單",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "隱藏離線頻道",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "緊湊間距",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "時間戳記連結",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "可複製的時間戳記連結",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "一般",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "在工具列圖示上顯示方案等級",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "授權",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "升級至 Pro",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "一次性支付 $$99，而非每月 $$4.99 — Kick Boost Pro 永久屬於你。",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

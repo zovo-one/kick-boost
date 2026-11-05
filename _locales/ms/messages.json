@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — Pembantu Pemain & Halaman",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "Pertingkatkan halaman tontonan Kick.com: kelajuan pemain & imbas, mod teater automatik, kemas senarai ikutan, dan pautan cap masa boleh disalin.",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "Togol Kick Boost",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "Kelajuan main balik",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "Kelajuan main balik",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Kick Boost dijeda",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "Digunakan pada setiap halaman tontonan Kick",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "Alih suis untuk mengaktifkan semula bar boost",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "Mod teater automatik",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "Luaskan pemain pada setiap halaman tontonan",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "Kemas senarai ikutan",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "Sembunyikan saluran luar talian di bar sisi",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "Naik taraf ke Pro — kelajuan setiap saluran & pautan tanpa had",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "Semua tetapan",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "Kelajuan main balik",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "Kelajuan lalai pada setiap strim",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "Memori kelajuan setiap saluran",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "Kosongkan",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "Imbas & cari",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "Butang mundur & maju pantas",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "Langkah lompatan",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "Bar cari ketepatan boleh seret",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "Mod teater",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "Kemasan bar sisi",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "Kemas senarai ikutan",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "Sembunyikan saluran luar talian",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "Jarak padat",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "Pautan cap masa",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "Pautan cap masa boleh disalin",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "Umum",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "Tunjukkan peringkat pada ikon bar alat",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "Lesen",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "Naik taraf ke Pro",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "Bayar $$99 sekali sahaja berbanding $$4.99 setiap bulan — Kick Boost Pro milik anda selamanya.",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

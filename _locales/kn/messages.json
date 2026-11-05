@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — ಪ್ಲೇಯರ್ ಮತ್ತು ಪುಟ ಸಹಾಯಕ",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "Kick.com ವೀಕ್ಷಣೆ ಪುಟಗಳನ್ನು ಸುಧಾರಿಸಿ: ಪ್ಲೇಯರ್ ವೇಗ, ಸ್ಕ್ರಬ್, ಸ್ವಯಂ ಥಿಯೇಟರ್, ಪಟ್ಟಿ ಸ್ವಚ್ಛಗೊಳಿಸುವಿಕೆ ಮತ್ತು ನಕಲಿಸಬಹುದಾದ ಟೈಮ್‌ಸ್ಟ್ಯಾಂಪ್ ಲಿಂಕ್‌ಗಳು.",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "Kick Boost ಟಾಗಲ್ ಮಾಡಿ",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "ಪ್ಲೇಬ್ಯಾಕ್ ವೇಗ",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "ಪ್ಲೇಬ್ಯಾಕ್ ವೇಗ",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Kick Boost ವಿರಾಮಗೊಂಡಿದೆ",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "ಪ್ರತಿ Kick ವೀಕ್ಷಣೆ ಪುಟದಲ್ಲಿ ಅನ್ವಯಿಸಲಾಗಿದೆ",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "ಬೂಸ್ಟ್ ಬಾರ್ ಮರು-ಸಕ್ರಿಯಗೊಳಿಸಲು ಸ್ವಿಚ್ ತಿರುಗಿಸಿ",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "ಸ್ವಯಂ ಥಿಯೇಟರ್ ಮೋಡ್",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "ಪ್ರತಿ ವೀಕ್ಷಣೆ ಪುಟದಲ್ಲಿ ಪ್ಲೇಯರ್ ಅಗಲಗೊಳಿಸಿ",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "ಫಾಲೋಯಿಂಗ್ ಪಟ್ಟಿ ಸ್ವಚ್ಛಗೊಳಿಸಿ",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "ಸೈಡ್‌ಬಾರ್‌ನಲ್ಲಿ ಆಫ್‌ಲೈನ್ ಚಾನಲ್‌ಗಳನ್ನು ಮರೆಮಾಡಿ",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "Pro ಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ — ಪ್ರತಿ ಚಾನಲ್ ವೇಗ ಮತ್ತು ಅನಿಯಮಿತ ಲಿಂಕ್‌ಗಳು",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "ಎಲ್ಲಾ ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "ಪ್ಲೇಬ್ಯಾಕ್ ವೇಗ",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "ಪ್ರತಿ ಸ್ಟ್ರೀಮ್‌ನಲ್ಲಿ ಡೀಫಾಲ್ಟ್ ವೇಗ",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "ಪ್ರತಿ ಚಾನಲ್ ವೇಗ ಮೆಮೊರಿ",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "ತೆರವುಗೊಳಿಸಿ",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "ಸ್ಕ್ರಬಿಂಗ್ ಮತ್ತು ಸೀಕ್",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "ರಿವೈಂಡ್ ಮತ್ತು ಫಾಸ್ಟ್-ಫಾರ್ವರ್ಡ್ ಬಟನ್‌ಗಳು",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "ಜಂಪ್ ಸ್ಟೆಪ್",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "ಎಳೆಯಬಹುದಾದ ನಿಖರ ಸೀಕ್ ಬಾರ್",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "ಥಿಯೇಟರ್ ಮೋಡ್",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "ಸೈಡ್‌ಬಾರ್ ಸ್ವಚ್ಛಗೊಳಿಸುವಿಕೆ",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "ಫಾಲೋಯಿಂಗ್ ಪಟ್ಟಿ ಸ್ವಚ್ಛಗೊಳಿಸಿ",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "ಆಫ್‌ಲೈನ್ ಚಾನಲ್‌ಗಳನ್ನು ಮರೆಮಾಡಿ",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "ಕಾಂಪ್ಯಾಕ್ಟ್ ಅಂತರ",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "ಟೈಮ್‌ಸ್ಟ್ಯಾಂಪ್ ಲಿಂಕ್‌ಗಳು",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "ನಕಲಿಸಬಹುದಾದ ಟೈಮ್‌ಸ್ಟ್ಯಾಂಪ್ ಲಿಂಕ್‌ಗಳು",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "ಸಾಮಾನ್ಯ",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "ಟೂಲ್‌ಬಾರ್ ಐಕಾನ್‌ನಲ್ಲಿ ಟಯರ್ ತೋರಿಸಿ",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "ಪರವಾನಗಿ",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "Pro ಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "ಪ್ರತಿ ತಿಂಗಳು $$4.99 ಬದಲಿಗೆ ಒಮ್ಮೆ $$99 ಪಾವತಿಸಿ — Kick Boost Pro ಶಾಶ್ವತವಾಗಿ ನಿಮ್ಮದು.",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

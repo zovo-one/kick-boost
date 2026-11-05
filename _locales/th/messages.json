@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — ตัวช่วยเครื่องเล่นและหน้าเว็บ",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "ยกระดับหน้ารับชม Kick.com: ความเร็วเครื่องเล่นและการเลื่อน โรงหนังอัตโนมัติ จัดระเบียบรายการที่ติดตาม และลิงก์เวลาที่คัดลอกได้",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "สลับ Kick Boost",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "ความเร็วในการเล่น",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "ความเร็วในการเล่น",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Kick Boost หยุดชั่วคราว",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "ใช้กับทุกหน้ารับชมของ Kick",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "สลับสวิตช์เพื่อเปิดใช้แถบบูสต์อีกครั้ง",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "โหมดโรงหนังอัตโนมัติ",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "ขยายเครื่องเล่นในทุกหน้ารับชม",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "จัดระเบียบรายการที่ติดตาม",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "ซ่อนช่องที่ออฟไลน์ในแถบด้านข้าง",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "อัปเกรดเป็น Pro — ความเร็วรายช่องและลิงก์ไม่จำกัด",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "การตั้งค่าทั้งหมด",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "ความเร็วในการเล่น",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "ความเร็วเริ่มต้นในทุกสตรีม",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "จดจำความเร็วรายช่อง",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "ล้าง",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "การเลื่อนและการค้นหา",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "ปุ่มกรอกลับและกรอไปข้างหน้า",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "ระยะข้าม",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "แถบค้นหาแบบแม่นยำที่ลากได้",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "โหมดโรงหนัง",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "จัดระเบียบแถบด้านข้าง",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "จัดระเบียบรายการที่ติดตาม",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "ซ่อนช่องที่ออฟไลน์",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "ระยะห่างแบบกระชับ",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "ลิงก์เวลา",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "ลิงก์เวลาที่คัดลอกได้",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "ทั่วไป",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "แสดงระดับบนไอคอนแถบเครื่องมือ",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "ใบอนุญาต",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "อัปเกรดเป็น Pro",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "จ่าย $$99 ครั้งเดียว แทนที่จะจ่าย $$4.99 ทุกเดือน — Kick Boost Pro เป็นของคุณตลอดไป",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

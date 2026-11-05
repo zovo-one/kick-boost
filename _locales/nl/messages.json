@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — speler- en paginahulp",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "Verbeter Kick.com-kijkpagina's: spelersnelheid en scrubben, automatische theatermodus, opschonen van volglijst en kopieerbare tijdstempellinks.",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "Kick Boost aan/uit",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "Afspeelsnelheid",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "Afspeelsnelheid",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Kick Boost gepauzeerd",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "Toegepast op elke Kick-kijkpagina",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "Zet de schakelaar om om de boostbalk weer in te schakelen",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "Automatische theatermodus",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "Verbreed de speler op elke kijkpagina",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "Volglijst opschonen",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "Offline kanalen verbergen in de zijbalk",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "Upgrade naar Pro — snelheid per kanaal en onbeperkte links",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "Alle instellingen",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "Afspeelsnelheid",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "Standaardsnelheid op elke stream",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "Snelheidsgeheugen per kanaal",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "Wissen",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "Scrubben en zoeken",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "Knoppen voor terugspoelen en vooruitspoelen",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "Sprongstap",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "Versleepbare precisiezoekbalk",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "Theatermodus",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "Zijbalk opschonen",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "Volglijst opschonen",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "Offline kanalen verbergen",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "Compacte tussenruimte",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "Tijdstempellinks",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "Kopieerbare tijdstempellinks",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "Algemeen",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "Niveau tonen op het werkbalkpictogram",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "Licentie",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "Upgrade naar Pro",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "Betaal $$99 eenmalig in plaats van $$4.99 per maand — Kick Boost Pro is voor altijd van jou.",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

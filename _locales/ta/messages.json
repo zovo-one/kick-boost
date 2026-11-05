@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — பிளேயர் மற்றும் பக்க உதவியாளர்",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "Kick.com பார்வைப் பக்கங்களை மேம்படுத்தவும்: பிளேயர் வேகம் மற்றும் இழுவை, தானியங்கி தியேட்டர், பின்தொடர் பட்டியலை ஒழுங்குபடுத்தல், நகலெடுக்கக்கூடிய நேர இணைப்புகள்.",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "Kick Boost நிலைமாற்று",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "இயக்க வேகம்",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "இயக்க வேகம்",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Kick Boost இடைநிறுத்தப்பட்டது",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "ஒவ்வொரு Kick பார்வைப் பக்கத்திலும் பயன்படுத்தப்படுகிறது",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "பூஸ்ட் பட்டியை மீண்டும் இயக்க ஸ்விட்சை மாற்றவும்",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "தானியங்கி தியேட்டர் பயன்முறை",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "ஒவ்வொரு பார்வைப் பக்கத்திலும் பிளேயரை அகலமாக்கவும்",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "பின்தொடர் பட்டியலை ஒழுங்குபடுத்து",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "பக்கப்பட்டியில் ஆஃப்லைன் சேனல்களை மறை",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "Pro க்கு மேம்படுத்து — சேனல் வாரியான வேகம் மற்றும் வரம்பற்ற இணைப்புகள்",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "அனைத்து அமைப்புகள்",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "இயக்க வேகம்",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "ஒவ்வொரு ஸ்ட்ரீமிலும் இயல்பான வேகம்",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "சேனல் வாரியான வேக நினைவகம்",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "அழி",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "இழுத்தல் மற்றும் தேடல்",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "பின்னோக்கி மற்றும் முன்னோக்கி பொத்தான்கள்",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "தாவல் படி",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "இழுக்கக்கூடிய துல்லிய தேடல் பட்டி",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "தியேட்டர் பயன்முறை",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "பக்கப்பட்டி ஒழுங்குபடுத்தல்",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "பின்தொடர் பட்டியலை ஒழுங்குபடுத்து",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "ஆஃப்லைன் சேனல்களை மறை",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "அடர்த்தியான இடைவெளி",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "நேர இணைப்புகள்",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "நகலெடுக்கக்கூடிய நேர இணைப்புகள்",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "பொது",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "கருவிப்பட்டி ஐகானில் அடுக்கைக் காட்டு",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "உரிமம்",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "Pro க்கு மேம்படுத்து",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "ஒவ்வொரு மாதமும் $$4.99 செலுத்துவதற்குப் பதிலாக ஒருமுறை $$99 செலுத்துங்கள் — Kick Boost Pro எப்போதும் உங்களுடையது.",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

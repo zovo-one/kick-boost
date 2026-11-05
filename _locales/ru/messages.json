@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — помощник плеера и страниц",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "Улучшайте страницы просмотра Kick.com: скорость и перемотка плеера, авторежим театра, очистка списка подписок и копируемые ссылки с меткой времени.",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "Включить Kick Boost",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "Скорость воспроизведения",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "Скорость воспроизведения",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Kick Boost приостановлен",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "Применяется на каждой странице просмотра Kick",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "Переключите тумблер, чтобы снова включить панель скорости",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "Автоматический режим театра",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "Расширять плеер на каждой странице просмотра",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "Очистить список подписок",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "Скрывать офлайн-каналы на боковой панели",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "Перейти на Pro — скорость по каналам и неограниченные ссылки",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "Все настройки",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "Скорость воспроизведения",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "Скорость по умолчанию для каждой трансляции",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "Запоминание скорости по каналам",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "Очистить",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "Перемотка и поиск",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "Кнопки перемотки назад и вперёд",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "Шаг перехода",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "Перетаскиваемая панель точного поиска",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "Режим театра",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "Очистка боковой панели",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "Очистить список подписок",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "Скрывать офлайн-каналы",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "Компактные отступы",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "Ссылки с меткой времени",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "Копируемые ссылки с меткой времени",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "Общие",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "Показывать уровень на значке панели инструментов",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "Лицензия",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "Перейти на Pro",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "Заплатите $$99 один раз вместо $$4.99 каждый месяц — Kick Boost Pro останется вашим навсегда.",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

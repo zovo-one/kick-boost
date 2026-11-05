@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!--
+    Kick Boost onboarding (Zovo Phase 2, premium 6-page flow).
+    Webpack emits onboarding.js + onboarding.css beside this file; the SW opens
+    it via chrome.tabs.create(chrome.runtime.getURL('onboarding.html')) once on
+    install. No inline script and no inline event handlers, so it stays inside
+    the extension_pages CSP (script-src 'self'). All external links open in a
+    new tab. Inter comes from the font stack only, no network fetch.
+  -->
+  <title>Welcome to Kick Boost</title>
+  <link rel="stylesheet" href="onboarding.css" />
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div class="mark">K</div>
+    <div class="brand">Kick Boost <span>&middot; by Zovo</span></div>
+    <div class="rail" id="rail" aria-hidden="true"></div>
+    <button class="skip" id="skip" type="button">Skip intro</button>
+  </div>
+
+  <div class="stage">
+    <!-- 1 - PROBLEM -->
+    <section class="step on" data-step="0">
+      <div class="grid">
+        <div>
+          <div class="eyebrow">The part Kick left out</div>
+          <h1>Kick has no speed button. You've been stuck at 1x.</h1>
+          <p class="lede wide">No 0.5x for a dense tutorial, no 2x for a four-hour VOD, no clean way to grab a link to the exact second something happened. Your following list buries who's live under everyone who isn't. Kick Boost fixes all of that inside the page.</p>
+          <p class="pt">Made for people who actually live on Kick. Long-VOD watchers, clippers, and anyone tired of a player that only knows play and pause.</p>
+        </div>
+        <div class="visual">
+          <div class="mockhd"><i></i><i></i><i></i></div>
+          <div class="field"><label>Playback speed</label><div class="box">locked at 1x</div></div>
+          <div class="field"><label>Jump to a moment</label><div class="box">drag the bar and hope</div></div>
+          <div class="field"><label>Following list</label><div class="box">42 channels, 3 actually live</div></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 2 - INSTANT WIN -->
+    <section class="step" data-step="1">
+      <div class="grid">
+        <div>
+          <div class="eyebrow">One bar, right in the player</div>
+          <h1>Set your speed and the page widens itself.</h1>
+          <p class="lede wide">The Boost bar drops into the Kick player the moment a stream loads. Tap 2x on a replay, hit theater once, and the video fills the room. It works on live channels and on VODs.</p>
+          <button class="btn btn--ghost" id="demoBtn" type="button" style="margin-top:18px">Watch it boost</button>
+        </div>
+        <div class="visual">
+          <div class="mockhd"><i></i><i></i><i></i></div>
+          <div class="field"><label>Playback speed</label><div class="box" data-fill="2.0x">&nbsp;</div></div>
+          <div class="field"><label>Player width</label><div class="box" data-fill="theater on, page widened">&nbsp;</div></div>
+          <div class="field"><label>Rewind and skip</label><div class="box" data-fill="-10s   +10s ready">&nbsp;</div></div>
+          <div class="field"><label>Copy this moment</label><div class="box" data-fill="kick.com/vod?t=1h24m07s">&nbsp;</div></div>
+          <div class="frameworks">
+            <span class="tag fw">Live</span><span class="tag fw">VOD</span><span class="tag fw">0.5x to 3x</span><span class="tag fw">No setup</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 3 - INVESTMENT -->
+    <section class="step" data-step="2">
+      <div class="grid">
+        <div>
+          <div class="eyebrow">Set it once</div>
+          <h1>Pick the speed every stream should open at.</h1>
+          <p class="lede wide">Choose a default speed and leave theater on. From then on every Kick page opens the way you like, with nothing to click on each visit. Pro goes one step further and remembers a speed per channel.</p>
+          <p class="pt">It all saves on this device. No account, no sign-in, and nothing sent to a server.</p>
+        </div>
+        <div class="visual">
+          <div class="pform" id="pform">
+            <label for="ps">Default playback speed</label>
+            <select class="in" id="ps">
+              <option value="1">1x, leave it alone</option>
+              <option value="1.25">1.25x, a little quicker</option>
+              <option value="1.5" selected>1.5x, my usual</option>
+              <option value="2">2x, power through</option>
+            </select>
+            <div class="toggle">
+              <span>Auto theater on every watch page</span>
+              <input type="checkbox" id="pt" checked aria-label="Auto theater on every watch page" />
+            </div>
+            <button class="btn btn--primary" id="saveBtn" type="button" style="margin-top:16px;width:100%">Save my defaults</button>
+            <div class="saved" id="saved"><span class="chk"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12l5 5L20 6"/></svg></span> Saved. Every Kick page opens like this now.</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 4 - TRUST + ZOVO STORY -->
+    <section class="step" data-step="3">
+      <div class="grid">
+        <div>
+          <div class="eyebrow">Why it's safe to leave on</div>
+          <h1>Runs on your device, made by one person you can reach.</h1>
+          <p class="lede wide">Kick Boost never phones home to do its job. It changes the Kick page in your own browser and keeps your toggles in local storage. No tracking, no account, and no network call to make the boost bar work.</p>
+          <p class="pt">A Kick helper is just where you meet Zovo. The bigger idea is an honest layer over the whole extension world, one small tool at a time, built in public with no spam and no tracking.</p>
+          <div class="morelinks">
+            <a href="https://zovo.one/why?ref=kick-boost" target="_blank" rel="noopener">Why I build Zovo</a>
+            <a href="https://zovo.one/vision?ref=kick-boost" target="_blank" rel="noopener">The vision</a>
+            <a href="https://zovo.one/how-we-keep-you-safe?ref=kick-boost" target="_blank" rel="noopener">How we keep you safe</a>
+          </div>
+        </div>
+        <div class="visual">
+          <div class="trust">
+            <div class="trow"><div class="tico"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v5c0 4.5-3 8-7 10-4-2-7-5.5-7-10V6z"/><path d="M9 12l2 2 4-4"/></svg></div><div><h2>Everything stays on your device</h2><p>Your speed, theater, and declutter toggles live in browser storage. No account, no sync server, nothing leaves the machine.</p></div></div>
+            <div class="trow"><div class="tico"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 4-6 8-6s8 2 8 6"/></svg></div><div><h2>One person, building in the open</h2><p>Not a faceless company. A solo developer who ships in public, watches Kick, and answers you directly at <a href="https://github.com/theluckystrike" target="_blank" rel="noopener">github.com/theluckystrike</a>.</p></div></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 5 - OFFER -->
+    <section class="step" data-step="4">
+      <div style="text-align:center;max-width:620px;margin:0 auto 22px">
+        <div class="eyebrow" style="text-align:center">The honest trade</div>
+        <h1 style="font-size:34px">Free stays genuinely useful. Or own it once.</h1>
+        <p class="lede wide" style="margin:0 auto">The everyday boost is free for good. One payment of ninety-nine dollars unlocks per-channel speed memory, unlimited timestamp links, and every Pro feature in this extension.</p>
+      </div>
+      <div class="plans">
+        <div class="plan">
+          <div class="pn">Free</div>
+          <div class="price">$0<small> forever</small></div>
+          <ul>
+            <li>Global speed from 0.5x to 3x</li>
+            <li>Auto theater on every watch page</li>
+            <li>Hide offline channels in your following list</li>
+            <li>Rewind and skip 10s on VODs</li>
+            <li>Three timestamp links a day</li>
+          </ul>
+        </div>
+        <div class="plan hero">
+          <div class="ribbon">Best value</div>
+          <div class="pn" style="color:var(--gold-dark)">Lifetime</div>
+          <div class="price">$99<small> one time</small></div>
+          <ul>
+            <li>Per-channel speed memory, applied automatically</li>
+            <li>Unlimited timestamp links</li>
+            <li>Draggable precision seek bar and custom jump step</li>
+            <li>Compact declutter presets and spacing</li>
+            <li>One payment, no subscription ever</li>
+          </ul>
+          <a class="btn btn--pro" href="https://zovo.one/pricing?utm_source=kick-boost&utm_medium=extension&utm_campaign=upgrade&utm_content=onboarding" target="_blank" rel="noopener" style="display:block;text-align:center;margin-top:18px">Get lifetime for $99</a>
+          <p class="guar">30-day money-back guarantee, no questions asked. Prefer monthly? It's $4.99 on the same page.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 6 - CLOSE -->
+    <section class="step" data-step="5">
+      <div class="grid">
+        <div>
+          <div class="eyebrow">You're set</div>
+          <h1>Open any stream and the Boost bar's already there.</h1>
+          <p class="lede wide">Pin the extension, load a Kick channel, and the bar sits in the player. Theater has already widened the page. Here's the quick reference for what lives where.</p>
+          <div class="sign">
+            <h2 style="font-size:13px;margin-bottom:7px;color:var(--tx)">From the developer</h2>
+            I build Zovo on my own, out in the open. If a control breaks on some layout, tell me and I fix it. Kick Boost is one tool. The plan is an honest layer for the whole browser, and your ninety-nine dollars ships the next piece of it.
+            <div class="morelinks" style="margin-top:13px">
+              <a href="https://github.com/theluckystrike" target="_blank" rel="noopener">Reach me on GitHub</a>
+              <a href="https://zovo.one/how-we-keep-you-safe?ref=kick-boost" target="_blank" rel="noopener">How we keep you safe</a>
+              <a href="https://zovo.one/vision?ref=kick-boost" target="_blank" rel="noopener">Where this is going</a>
+            </div>
+          </div>
+        </div>
+        <div class="visual">
+          <div class="cheat">
+            <div class="row"><span>Set the speed</span><span class="kbd">Boost bar</span></div>
+            <div class="row"><span>Rewind or skip 10s</span><span class="kbd">VOD buttons</span></div>
+            <div class="row"><span>Copy a moment link</span><span class="kbd">Timestamp</span></div>
+            <div class="row"><span>Widen the player</span><span class="kbd">Auto theater</span></div>
+          </div>
+          <p class="pt" style="margin-top:16px">That's Kick Boost. One honest tool that does its job and gets out of your way. If you want to see where the studio is headed next, the door's open. <a href="https://zovo.one/vision?ref=kick-boost" target="_blank" rel="noopener">Where this is going</a>.</p>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <div class="nav">
+    <button class="btn btn--ghost" id="back" type="button" style="visibility:hidden">Back</button>
+    <span class="stepno" id="stepno">1 of 6</span>
+    <span class="spacer"></span>
+    <button class="btn btn--primary" id="next" type="button">Next</button>
+  </div>
+</div>
+<script src="onboarding.js"></script>
+</body>
+</html>

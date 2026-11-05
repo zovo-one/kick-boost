@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — Assistant lecteur et page",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "Améliorez les pages Kick.com : vitesse et défilement du lecteur, mode cinéma auto, liste de suivis épurée et liens horodatés copiables.",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "Activer Kick Boost",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "Vitesse de lecture",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "Vitesse de lecture",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Kick Boost en pause",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "Appliqué sur chaque page de visionnage Kick",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "Basculez l'interrupteur pour réactiver la barre de vitesse",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "Mode cinéma automatique",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "Élargir le lecteur sur chaque page de visionnage",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "Épurer la liste de suivis",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "Masquer les chaînes hors ligne dans la barre latérale",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "Passer à Pro — vitesse par chaîne et liens illimités",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "Tous les paramètres",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "Vitesse de lecture",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "Vitesse par défaut sur chaque stream",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "Mémoire de vitesse par chaîne",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "Effacer",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "Défilement et recherche",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "Boutons de rembobinage et d'avance rapide",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "Pas de saut",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "Barre de recherche de précision déplaçable",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "Mode cinéma",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "Épuration de la barre latérale",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "Épurer la liste de suivis",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "Masquer les chaînes hors ligne",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "Espacement compact",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "Liens horodatés",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "Liens horodatés copiables",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "Général",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "Afficher le niveau sur l'icône de la barre d'outils",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "Licence",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "Passer à Pro",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "Payez $$99 une fois au lieu de $$4.99 chaque mois — Kick Boost Pro est à vous pour toujours.",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

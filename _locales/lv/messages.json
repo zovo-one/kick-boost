@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — Atskaņotāja un lapas palīgs",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "Uzlabo Kick.com skatīšanās lapas: ātrums un pārtīšana, automātisks teātra režīms, saraksta sakārtošana un kopējamas laika zīmogu saites.",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "Ieslēgt/izslēgt Kick Boost",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "Atskaņošanas ātrums",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "Atskaņošanas ātrums",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Kick Boost apturēts",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "Piemērots katrā Kick skatīšanās lapā",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "Pārslēdz, lai atkal ieslēgtu boost joslu",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "Automātisks teātra režīms",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "Paplašini atskaņotāju katrā skatīšanās lapā",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "Sakārtot sekošanas sarakstu",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "Slēpt bezsaistes kanālus sānjoslā",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "Jaunināt uz Pro — ātrums katram kanālam un neierobežotas saites",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "Visi iestatījumi",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "Atskaņošanas ātrums",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "Noklusētais ātrums katrā straumē",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "Ātruma atmiņa katram kanālam",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "Notīrīt",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "Pārtīšana un meklēšana",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "Attīšanas un pārtīšanas pogas",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "Lēciena solis",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "Velkama precīza meklēšanas josla",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "Teātra režīms",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "Sānjoslas sakārtošana",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "Sakārtot sekošanas sarakstu",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "Slēpt bezsaistes kanālus",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "Kompakts atstatums",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "Laika zīmogu saites",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "Kopējamas laika zīmogu saites",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "Vispārīgi",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "Rādīt līmeni rīkjoslas ikonā",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "Licence",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "Jaunināt uz Pro",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "Maksā $$99 vienreiz, nevis $$4.99 katru mēnesi — Kick Boost Pro ir tavs uz visiem laikiem.",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

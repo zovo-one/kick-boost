@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — የማጫወቻ እና ገጽ ረዳት",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "የKick.com መመልከቻ ገጾችን ያሻሽሉ፦ የማጫወቻ ፍጥነት እና ማንሸራተት፣ ራስ-ሰር ቲያትር፣ የመከተል ዝርዝር ማጽዳት፣ እና ሊገለበጡ የሚችሉ የጊዜ ማህተም አገናኞች።",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "Kick Boostን አብራ/አጥፋ",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "የማጫወቻ ፍጥነት",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "የማጫወቻ ፍጥነት",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Kick Boost ቆሟል",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "በእያንዳንዱ የKick መመልከቻ ገጽ ላይ ተተግብሯል",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "የ boost አሞሌን እንደገና ለማንቃት መቀየሪያውን ይግለብጡ",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "ራስ-ሰር ቲያትር ሁነታ",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "በእያንዳንዱ መመልከቻ ገጽ ላይ ማጫወቻውን አስፋ",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "የመከተል ዝርዝርን አጽዳ",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "በጎን አሞሌ ውስጥ ከመስመር ውጭ ያሉ ቻናሎችን ደብቅ",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "ወደ Pro አሻሽል — በቻናል ፍጥነት እና ያልተገደቡ አገናኞች",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "ሁሉም ቅንብሮች",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "የማጫወቻ ፍጥነት",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "በእያንዳንዱ ዥረት ላይ ነባሪ ፍጥነት",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "የቻናል ፍጥነት ማስታወስ",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "አጽዳ",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "ማንሸራተት እና ፍለጋ",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "ወደኋላ እና ወደፊት ቁልፎች",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "የዝላይ ደረጃ",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "ሊጎተት የሚችል ትክክለኛ ፍለጋ አሞሌ",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "ቲያትር ሁነታ",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "የጎን አሞሌ ማጽዳት",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "የመከተል ዝርዝርን አጽዳ",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "ከመስመር ውጭ ያሉ ቻናሎችን ደብቅ",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "ጠባብ ክፍተት",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "የጊዜ ማህተም አገናኞች",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "ሊገለበጡ የሚችሉ የጊዜ ማህተም አገናኞች",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "አጠቃላይ",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "በመሳሪያ አሞሌ አዶ ላይ ደረጃ አሳይ",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "ፍቃድ",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "ወደ Pro አሻሽል",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "በየወሩ $$4.99 ከመክፈል ይልቅ አንድ ጊዜ $$99 ይክፈሉ — Kick Boost Pro ለዘላለም የእርስዎ ነው።",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

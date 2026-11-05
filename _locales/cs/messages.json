@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — pomocník přehrávače a stránky",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "Vylepšete stránky sledování na Kick.com: rychlost a posun přehrávače, automatický režim divadla, úklid seznamu sledovaných a kopírovatelné odkazy s časovými značkami.",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "Přepnout Kick Boost",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "Rychlost přehrávání",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "Rychlost přehrávání",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Kick Boost pozastaven",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "Použito na každé stránce sledování Kick",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "Přepněte přepínač pro opětovné zapnutí lišty zrychlení",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "Automatický režim divadla",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "Rozšiřte přehrávač na každé stránce sledování",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "Uklidit seznam sledovaných",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "Skrýt offline kanály v postranním panelu",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "Přejít na Pro — rychlost pro každý kanál a neomezené odkazy",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "Všechna nastavení",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "Rychlost přehrávání",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "Výchozí rychlost pro každý stream",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "Zapamatování rychlosti pro každý kanál",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "Vymazat",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "Posun a hledání",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "Tlačítka převíjení a rychlého posunu",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "Krok skoku",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "Tažná přesná lišta hledání",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "Režim divadla",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "Úklid postranního panelu",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "Uklidit seznam sledovaných",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "Skrýt offline kanály",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "Kompaktní rozestupy",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "Odkazy s časovými značkami",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "Kopírovatelné odkazy s časovými značkami",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "Obecné",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "Zobrazit úroveň na ikoně panelu nástrojů",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "Licence",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "Přejít na Pro",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "Zaplaťte $$99 jednou místo $$4.99 každý měsíc — Kick Boost Pro je navždy váš.",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

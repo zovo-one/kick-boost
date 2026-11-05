@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — soittimen ja sivun apuri",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "Paranna Kick.com-sivuja: nopeus ja kelaus, automaattinen teatteritila, listan siistiminen ja kopioitavat aikaleimalinkit.",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "Ota Kick Boost käyttöön tai pois",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "Toistonopeus",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "Toistonopeus",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Kick Boost keskeytetty",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "Käytössä jokaisella Kick-katselusivulla",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "Käännä kytkin ottaaksesi boost-palkin uudelleen käyttöön",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "Automaattinen teatteritila",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "Levennä soitin jokaisella katselusivulla",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "Siisti seurattavien lista",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "Piilota offline-kanavat sivupalkista",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "Päivitä Pro-versioon — kanavakohtainen nopeus ja rajattomat linkit",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "Kaikki asetukset",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "Toistonopeus",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "Oletusnopeus jokaisessa lähetyksessä",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "Kanavakohtainen nopeusmuisti",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "Tyhjennä",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "Kelaus ja haku",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "Taakse- ja eteenpäinkelauspainikkeet",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "Hyppyaskel",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "Vedettävä tarkkuushakupalkki",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "Teatteritila",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "Sivupalkin siistiminen",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "Siisti seurattavien lista",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "Piilota offline-kanavat",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "Tiivis välistys",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "Aikaleimalinkit",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "Kopioitavat aikaleimalinkit",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "Yleiset",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "Näytä taso työkalupalkin kuvakkeessa",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "Lisenssi",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "Päivitä Pro-versioon",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "Maksa $$99 kerran sen sijaan, että maksaisit $$4.99 joka kuukausi — Kick Boost Pro on sinun pysyvästi.",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

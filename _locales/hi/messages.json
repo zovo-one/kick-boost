@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — प्लेयर और पेज सहायक",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "Kick.com वॉच पेज बेहतर बनाएं: प्लेयर गति और स्क्रब, ऑटो थिएटर, फ़ॉलोइंग-सूची सफ़ाई, और कॉपी-योग्य टाइमस्टैम्प लिंक।",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "Kick Boost टॉगल करें",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "प्लेबैक गति",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "प्लेबैक गति",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Kick Boost रुका हुआ",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "हर Kick वॉच पेज पर लागू",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "बूस्ट बार फिर से चालू करने के लिए स्विच पलटें",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "ऑटो थिएटर मोड",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "हर वॉच पेज पर प्लेयर को चौड़ा करें",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "फ़ॉलोइंग सूची साफ़ करें",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "साइडबार में ऑफ़लाइन चैनल छिपाएं",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "Pro में अपग्रेड करें — प्रति-चैनल गति और असीमित लिंक",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "सभी सेटिंग्स",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "प्लेबैक गति",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "हर स्ट्रीम पर डिफ़ॉल्ट गति",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "प्रति-चैनल गति मेमोरी",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "साफ़ करें",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "स्क्रबिंग और सीक",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "रिवाइंड और फ़ास्ट-फ़ॉरवर्ड बटन",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "जंप स्टेप",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "खींचने योग्य सटीक सीक बार",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "थिएटर मोड",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "साइडबार सफ़ाई",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "फ़ॉलोइंग सूची साफ़ करें",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "ऑफ़लाइन चैनल छिपाएं",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "कॉम्पैक्ट स्पेसिंग",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "टाइमस्टैम्प लिंक",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "कॉपी-योग्य टाइमस्टैम्प लिंक",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "सामान्य",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "टूलबार आइकन पर टियर दिखाएं",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "लाइसेंस",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "Pro में अपग्रेड करें",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "हर महीने $$4.99 के बजाय एक बार $$99 चुकाएं — Kick Boost Pro हमेशा के लिए आपका।",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

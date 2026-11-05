@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — Trợ lý trình phát và trang",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "Nâng cao trang xem Kick.com: tốc độ và tua trình phát, chế độ rạp tự động, dọn gọn danh sách theo dõi và liên kết dấu thời gian sao chép được.",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "Bật/tắt Kick Boost",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "Tốc độ phát",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "Tốc độ phát",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Kick Boost đã tạm dừng",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "Áp dụng trên mọi trang xem của Kick",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "Gạt công tắc để bật lại thanh tăng tốc",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "Chế độ rạp tự động",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "Mở rộng trình phát trên mọi trang xem",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "Dọn gọn danh sách theo dõi",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "Ẩn các kênh ngoại tuyến trong thanh bên",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "Nâng cấp lên Pro — tốc độ theo kênh và liên kết không giới hạn",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "Tất cả cài đặt",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "Tốc độ phát",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "Tốc độ mặc định trên mọi luồng phát",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "Ghi nhớ tốc độ theo kênh",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "Xóa",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "Tua và tìm kiếm",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "Nút tua lại và tua nhanh",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "Bước nhảy",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "Thanh tua chính xác có thể kéo",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "Chế độ rạp",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "Dọn gọn thanh bên",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "Dọn gọn danh sách theo dõi",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "Ẩn các kênh ngoại tuyến",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "Khoảng cách thu gọn",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "Liên kết dấu thời gian",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "Liên kết dấu thời gian sao chép được",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "Chung",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "Hiển thị cấp trên biểu tượng thanh công cụ",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "Giấy phép",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "Nâng cấp lên Pro",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "Trả $$99 một lần thay vì $$4.99 mỗi tháng — Kick Boost Pro là của bạn mãi mãi.",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

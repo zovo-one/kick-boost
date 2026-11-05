@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — grotuvo ir puslapio pagalbininkas",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "Patobulinkite Kick.com žiūrėjimo puslapius: grotuvo greitis ir slinkimas, automatinis teatro režimas, sekamų sąrašo tvarkymas ir kopijuojamos laiko žymos nuorodos.",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "Įjungti / išjungti Kick Boost",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "Atkūrimo greitis",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "Atkūrimo greitis",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Kick Boost pristabdytas",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "Taikoma kiekviename Kick žiūrėjimo puslapyje",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "Perjunkite jungiklį, kad vėl įjungtumėte pagreitinimo juostą",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "Automatinis teatro režimas",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "Praplėskite grotuvą kiekviename žiūrėjimo puslapyje",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "Tvarkyti sekamų sąrašą",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "Slėpti neprisijungusius kanalus šoninėje juostoje",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "Atnaujinkite į Pro — greitis pagal kanalą ir neriboti saitai",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "Visi nustatymai",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "Atkūrimo greitis",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "Numatytasis greitis kiekvienoje transliacijoje",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "Greičio įsiminimas pagal kanalą",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "Išvalyti",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "Slinkimas ir peršokimas",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "Atsukimo ir persukimo į priekį mygtukai",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "Šuolio žingsnis",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "Velkama tikslaus peršokimo juosta",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "Teatro režimas",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "Šoninės juostos tvarkymas",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "Tvarkyti sekamų sąrašą",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "Slėpti neprisijungusius kanalus",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "Kompaktiškas išdėstymas",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "Laiko žymos nuorodos",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "Kopijuojamos laiko žymos nuorodos",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "Bendra",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "Rodyti planą įrankių juostos piktogramoje",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "Licencija",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "Atnaujinti į Pro",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "Sumokėkite $$99 vieną kartą vietoj $$4.99 kas mėnesį — Kick Boost Pro bus jūsų visam laikui.",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

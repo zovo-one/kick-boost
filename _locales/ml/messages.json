@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — പ്ലെയർ & പേജ് സഹായി",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "Kick.com കാണൽ പേജുകൾ മെച്ചപ്പെടുത്തുക: പ്ലെയർ വേഗതയും സ്ക്രബ്ബും, ഓട്ടോ തിയേറ്റർ, പിന്തുടരൽ പട്ടിക ചിട്ടപ്പെടുത്തൽ, കോപ്പി ചെയ്യാവുന്ന ടൈംസ്റ്റാമ്പ് ലിങ്കുകൾ.",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "Kick Boost ടോഗിൾ ചെയ്യുക",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "പ്ലേബാക്ക് വേഗത",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "പ്ലേബാക്ക് വേഗത",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Kick Boost താൽക്കാലികമായി നിർത്തി",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "എല്ലാ Kick കാണൽ പേജിലും പ്രയോഗിക്കുന്നു",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "ബൂസ്റ്റ് ബാർ വീണ്ടും പ്രവർത്തനക്ഷമമാക്കാൻ സ്വിച്ച് മാറ്റുക",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "ഓട്ടോ തിയേറ്റർ മോഡ്",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "എല്ലാ കാണൽ പേജിലും പ്ലെയർ വിശാലമാക്കുക",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "പിന്തുടരൽ പട്ടിക ചിട്ടപ്പെടുത്തുക",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "സൈഡ്‌ബാറിലെ ഓഫ്‌ലൈൻ ചാനലുകൾ മറയ്ക്കുക",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "Pro-യിലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുക — ചാനൽ അനുസരിച്ചുള്ള വേഗതയും പരിധിയില്ലാത്ത ലിങ്കുകളും",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "എല്ലാ ക്രമീകരണങ്ങളും",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "പ്ലേബാക്ക് വേഗത",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "എല്ലാ സ്ട്രീമിലും സ്ഥിരസ്ഥിതി വേഗത",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "ചാനൽ അനുസരിച്ചുള്ള വേഗത ഓർമ്മ",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "മായ്ക്കുക",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "സ്ക്രബ്ബിംഗ് & സീക്ക്",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "റിവൈൻഡ് & ഫാസ്റ്റ്-ഫോർവേഡ് ബട്ടണുകൾ",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "ജമ്പ് സ്റ്റെപ്പ്",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "വലിച്ചിടാവുന്ന കൃത്യതയുള്ള സീക്ക് ബാർ",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "തിയേറ്റർ മോഡ്",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "സൈഡ്‌ബാർ ചിട്ടപ്പെടുത്തൽ",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "പിന്തുടരൽ പട്ടിക ചിട്ടപ്പെടുത്തുക",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "ഓഫ്‌ലൈൻ ചാനലുകൾ മറയ്ക്കുക",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "ഒതുക്കമുള്ള അകലം",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "ടൈംസ്റ്റാമ്പ് ലിങ്കുകൾ",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "കോപ്പി ചെയ്യാവുന്ന ടൈംസ്റ്റാമ്പ് ലിങ്കുകൾ",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "പൊതുവായത്",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "ടൂൾബാർ ഐക്കണിൽ ടയർ കാണിക്കുക",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "ലൈസൻസ്",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "Pro-യിലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുക",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "എല്ലാ മാസവും $$4.99 നൽകുന്നതിന് പകരം ഒരിക്കൽ $$99 നൽകുക — Kick Boost Pro എന്നന്നേക്കുമായി നിങ്ങളുടേതാണ്.",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}

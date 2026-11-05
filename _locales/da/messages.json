@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Kick Boost — afspiller- og sidehjælper",
+    "description": "Extension name shown in Chrome and the Web Store (max 75 chars)."
+  },
+  "extDesc": {
+    "message": "Forbedr Kick.com-visningssider: afspillerhastighed og spoling, automatisk teater, oprydning af følgeliste og kopierbare tidsstempellinks.",
+    "description": "Extension short description / single purpose (max 132 chars)."
+  },
+  "masterToggle": {
+    "message": "Slå Kick Boost til/fra",
+    "description": "aria-label for the popup master on/off switch."
+  },
+  "speedSection": {
+    "message": "Afspilningshastighed",
+    "description": "Popup section eyebrow above the speed picker."
+  },
+  "heroOn": {
+    "message": "Afspilningshastighed",
+    "description": "Popup hero label when Kick Boost is enabled."
+  },
+  "heroOff": {
+    "message": "Kick Boost sat på pause",
+    "description": "Popup hero label when Kick Boost is disabled."
+  },
+  "heroSubOn": {
+    "message": "Anvendes på hver Kick-visningsside",
+    "description": "Popup hero sublabel when enabled."
+  },
+  "heroSubOff": {
+    "message": "Skift kontakten for at genaktivere boost-bjælken",
+    "description": "Popup hero sublabel when disabled."
+  },
+  "autoTheater": {
+    "message": "Automatisk teatertilstand",
+    "description": "Label for the auto theater toggle (popup and options)."
+  },
+  "autoTheaterHint": {
+    "message": "Udvid afspilleren på hver visningsside",
+    "description": "Hint under the auto theater toggle in the popup."
+  },
+  "declutter": {
+    "message": "Ryd op i følgelisten",
+    "description": "Popup label for the sidebar declutter toggle."
+  },
+  "declutterHint": {
+    "message": "Skjul offline-kanaler i sidepanelet",
+    "description": "Hint under the declutter toggle in the popup."
+  },
+  "upgradeCta": {
+    "message": "Opgrader til Pro — hastighed pr. kanal og ubegrænsede links",
+    "description": "Popup gold upgrade button label."
+  },
+  "allSettings": {
+    "message": "Alle indstillinger",
+    "description": "Popup footer link to the full options page."
+  },
+  "speedTitle": {
+    "message": "Afspilningshastighed",
+    "description": "Options card title for the speed section."
+  },
+  "speedDefault": {
+    "message": "Standardhastighed på hvert stream",
+    "description": "Options field label for the default speed selector."
+  },
+  "perChannel": {
+    "message": "Hastighedshukommelse pr. kanal",
+    "description": "Options label for the Pro per-channel speed feature."
+  },
+  "clearSpeeds": {
+    "message": "Ryd",
+    "description": "Options button to clear remembered per-channel speeds."
+  },
+  "scrubTitle": {
+    "message": "Spoling og søgning",
+    "description": "Options card title for the scrubbing section."
+  },
+  "scrubEnable": {
+    "message": "Knapper til tilbagespoling og hurtig fremspoling",
+    "description": "Options toggle label for scrub buttons."
+  },
+  "scrubStep": {
+    "message": "Springtrin",
+    "description": "Options field label for the scrub jump step."
+  },
+  "seekBar": {
+    "message": "Trækbar præcisionssøgebjælke",
+    "description": "Options label for the Pro precision seek bar."
+  },
+  "theaterTitle": {
+    "message": "Teatertilstand",
+    "description": "Options card title for the theater section."
+  },
+  "declutterTitle": {
+    "message": "Oprydning af sidepanel",
+    "description": "Options card title for the sidebar declutter section."
+  },
+  "declutterEnable": {
+    "message": "Ryd op i følgelisten",
+    "description": "Options toggle label for declutter."
+  },
+  "hideOffline": {
+    "message": "Skjul offline-kanaler",
+    "description": "Options toggle label to hide offline channels."
+  },
+  "compact": {
+    "message": "Kompakt afstand",
+    "description": "Options label for the Pro compact sidebar spacing feature."
+  },
+  "timestampTitle": {
+    "message": "Tidsstempellinks",
+    "description": "Options card title for the timestamp links section."
+  },
+  "timestampEnable": {
+    "message": "Kopierbare tidsstempellinks",
+    "description": "Options toggle label for copyable timestamp links."
+  },
+  "generalTitle": {
+    "message": "Generelt",
+    "description": "Options card title for the general settings section."
+  },
+  "badgeTier": {
+    "message": "Vis niveau på værktøjslinjeikonet",
+    "description": "Options toggle label for the toolbar tier badge."
+  },
+  "licenseTitle": {
+    "message": "Licens",
+    "description": "Options card title for the license section."
+  },
+  "upgradeTitle": {
+    "message": "Opgrader til Pro",
+    "description": "Options paywall card title."
+  },
+  "paywallReframe": {
+    "message": "Betal $$99 én gang i stedet for $$4.99 hver måned — Kick Boost Pro er din for altid.",
+    "description": "Paywall value reframe line under the Pro plan (single-extension, one-time vs subscription)."
+  }
+}
